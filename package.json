@@ -9,7 +9,9 @@
   "author": "Ben Ezard",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/pubsub": "^1.4.1",
+    "@google-cloud/pubsub": "^1.4.1"
+  },
+  "devDependencies": {
     "@nestjs/common": "^6.11.5",
     "rxjs": "^6.5.4"
   },
