@@ -1,0 +1,11 @@
+{
+  "name": "nest-google-cloud",
+  "version": "0.0.0",
+  "description": "Google Cloud modules for Nest.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Ezard",
+  "license": "MIT"
+}
